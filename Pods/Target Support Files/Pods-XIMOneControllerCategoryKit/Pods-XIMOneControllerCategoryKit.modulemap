@@ -1,0 +1,6 @@
+framework module Pods_XIMOneControllerCategoryKit {
+  umbrella header "Pods-XIMOneControllerCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
